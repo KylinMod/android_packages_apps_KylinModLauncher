@@ -16,11 +16,9 @@
 -->
 <resources>
     <!-- Application name -->
-    <string name="cm_application_name" translatable="false">Trebuchet</string>
+    <string name="km_application_name" translatable="false">麒麟启动器</string>
     <!-- App copyright -->
-    <string name="application_copyright" translatable="false">Copyright \u00A9 2014 The CyanogenMod Project</string>
-    <!-- App version -->
-    <string name="application_version" translatable="false">1.0</string>
+    <string name="application_copyright" translatable="false">Copyright \u00A9 2014 The KylinMod OpenSource Project</string>
 
     <!-- Strings for the customization mode -->
     <!-- Text for sorting mode button -->
@@ -44,15 +42,12 @@
 
     <!-- Settings -->
     <string name="preferences_title">设置</string>
-    <!-- UI -->
-    <string name="preferences_interface_title">界面</string>
     <!-- Application -->
     <string name="preferences_application_title">应用</string>
 
     <!-- UI -->
     <!-- Homescreen -->
     <string name="preferences_interface_homescreen_title">主屏幕</string>
-    <string name="preferences_interface_homescreen_summary">屏幕和壁纸</string>
     <string name="preferences_interface_homescreen_search_title">搜索栏</string>
     <string name="preferences_interface_homescreen_search_summary">在屏幕上方持续显示搜索栏</string>
 

@@ -991,8 +991,8 @@ public class Launcher extends Activity
 
     protected void startSettings() {
         Intent settings;
-        // If we are on CyanogenMod the launcher settings are accessed from system settings.
-        if (!getPackageManager().hasSystemFeature("com.cyanogenmod.android")) {
+        // If we are on KylinMod the launcher settings are accessed from system settings.
+        if (!getPackageManager().hasSystemFeature("com.kylinmod.android")) {
             settings = new Intent().setClass(this, SettingsActivity.class);
             settings.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK
                     | Intent.FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS);
