@@ -18,7 +18,7 @@
     <!-- Application name -->
     <string name="km_application_name" translatable="false">KylinModLauncher</string>
     <!-- App copyright -->
-    <string name="application_copyright" translatable="false">Copyright \u00A9 2014 The KylinMod OpenSource Project</string>
+    <string name="application_copyright">Copyright \u00A9 2014 The KylinMod OpenSource Project</string>
     <!-- App version -->
     <string name="application_version" translatable="false">1.0</string>
 
@@ -76,7 +76,7 @@
 
     <!-- The title text for the all apps cling [CHAR_LIMIT=60] -->
     <string name="all_apps_cling_cm">Customize your drawer</string>
-    <!-- The description of how to access Trebuchet settings [CHAR_LIMIT=160] -->
+    <!-- The description of how to access KylinModLauncher settings [CHAR_LIMIT=160] -->
     <string name="all_apps_cling_summary">Tap the page indicator to view additional configuration settings</string>
 
     <!-- AOSP dummy strings (required by old Launcher3 code) -->

@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="application_copyright">Hakcipta \u00A9 2014 Projek CyanogenMod</string>
+  <string name="application_copyright">Hakcipta \u00A9 2014 Projek KylinMod OpenSource</string>
   <string name="sort_button_text">Susun</string>
   <string name="filter_button_text">Saring</string>
   <string name="default_screen_button_text">Skrin Lalai</string>
