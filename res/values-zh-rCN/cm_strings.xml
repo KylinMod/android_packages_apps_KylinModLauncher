@@ -19,7 +19,6 @@
      limitations under the License.
 -->
 <resources>
-<<<<<<< HEAD
     <!-- Application name -->
     <string name="km_application_name" translatable="false">麒麟启动器</string>
     <!-- Strings for the customization mode -->
@@ -79,7 +78,4 @@
     <!-- The description of how to access KylinModLauncher settings [CHAR_LIMIT=160] -->
     <string name="all_apps_cling_summary">点击页面指示器来查看其他配置设置</string>
 
-=======
-  <string name="preferences_title">设置</string>
->>>>>>> 68c2c9bdbeeb1c428517af57d0a8ac42261887e3
 </resources>
