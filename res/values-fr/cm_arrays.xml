@@ -18,7 +18,7 @@
 <resources>
   <string-array name="preferences_interface_general_icons_text_font_family_entries">
     <item>Régulier</item>
-    <item>Clair</item>
+    <item>Léger</item>
     <item>Condensé</item>
   </string-array>
   <string-array name="transition_effect_entries">
