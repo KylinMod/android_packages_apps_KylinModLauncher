@@ -17,8 +17,7 @@
 <resources>
     <!-- Application name -->
     <string name="km_application_name" translatable="false">KylinModLauncher</string>
-    <!-- App copyright -->
-    <string name="application_copyright">Copyright \u00A9 2014 The KylinMod OpenSource Project</string>
+
     <!-- App version -->
     <string name="application_version" translatable="false">1.0</string>
 
